@@ -6,3 +6,5 @@ The web app was built in Python using the following libraries:
 * streamlit
 * sklearn
 * pandas
+
+Deployed to Heroku [IrisClassification-Webapp](https://iris-classification-web.herokuapp.com/)
